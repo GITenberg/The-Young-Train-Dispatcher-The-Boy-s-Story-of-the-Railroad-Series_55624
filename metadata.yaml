@@ -1,10 +1,13 @@
 _repo: The-Young-Train-Dispatcher-The-Boy-s-Story-of-the-Railroad-Series_55624
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Button, A. P.
     gutenberg_agent_id: '48423'
     url: http://www.gutenberg.org/2009/agents/48423
+covers:
+- cover_type: archival
+  image_path: 55624-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Burton Egbert
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/980
     wikipedia: http://en.wikipedia.org/wiki/Burton_E._Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55624#The-Young-Train-Dispatcher-The-Boy-s-Story-of-the-Railroad-Series
 gutenberg_issued: '2017-09-25'
 gutenberg_type: Text
 identifiers:
